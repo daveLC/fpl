@@ -34,44 +34,60 @@ while (hasGameBeenPlayed(gameHtml)) {
 teams.each { team ->
     println team
 }
-teams = teams.sort {it.homePoints.sum() + it.awayPoints.sum()}.reverse()
-outputResults(teams)
-teams = teams.sort {it.homePoints.sum()}.reverse()
-outputResults(teams)
-teams = teams.sort {it.awayPoints.sum()}.reverse()
-outputResults(teams)
+addTotals (teams)
+
+def homeCols = ["pos", "team.............", "leaguePos", "homeMatches", "homePts", "avgHomePts"]
+def awayCols = ["pos", "team.............", "leaguePos", "awayMatches", "awayPts", "avgAwayPts"]
+def allCols = ["pos", "team.............", "leaguePos", "homeMatches", "homePts", "avgHomePts", "awayMatches", "awayPts", "avgAwayPts", "totalPts", "avgPts"]
+outputResults (teams, homeCols, "homePts")
+outputResults (teams, awayCols, "awayPts")
+outputResults (teams, allCols, "totalPts")
+
 
 def setupTeams(ArrayList teams) {
     def leagueTableHtml = saveLeagueHtml()
     teamNames.each { teamName ->
         def leaguePos = getLeaguePos (teamName, leagueTableHtml)
-        teams << [name: teamName, homePoints: [], awayPoints: [], leaguePos: leaguePos]
+        teams << [name: teamName, homeGamePoints: [], awayGamePoints: [], leaguePos: leaguePos]
     }
 }
 
-def outputResults(teams) {
+def outputResults (teams, cols, sortCol) {
 
-    println "\n\npos team............. leaguePos homeMatches homePts avgHomePts awayMatches awayPts avgAwayPts totalPts avgPts"
+    println "\n\n${cols.join(" ")}"
+
+    teams = teams.sort {it[sortCol]}.reverse()
 
     teams.eachWithIndex { team, i ->
-        def position = pad (i+1, 3)
-        def leaguePos = pad (team.leaguePos, "leaguePos".length())
-        def teamName = padTeam(team.name)
-        def homeMatches = pad (team.homePoints.size(), "homeMatches".length())
-        def awayMatches = pad (team.awayPoints.size(), "awayMatches".length())
-        def homePoints = pad (team.homePoints.sum(), "homePts".length())
-        def awayPoints = pad (team.awayPoints.sum(), "awayPts".length())
-        def avgHomePts = pad (Math.round(team.homePoints.sum()/team.homePoints.size()), "avgHomePts".length())
-        def avgAwayPts = pad (Math.round(team.awayPoints.sum()/team.awayPoints.size()), "avgAwayPts".length())
-        def totalPoints = pad (team.homePoints.sum() + team.awayPoints.sum(), "totalPts".length())
-        def avgPts = pad (Math.round((team.homePoints.sum() + team.awayPoints.sum())/(team.homePoints.size() + team.awayPoints.size())), "avgPts".length())
-
-        println "$position $teamName $leaguePos $homeMatches $homePoints $avgHomePts $awayMatches $awayPoints $avgAwayPts $totalPoints $avgPts"
+        def rowData = []
+        cols.each { col ->
+            def data
+            if (col == "pos") {
+                rowData << pad (i+1, 3)
+            }
+            else if (col == "team.............") {
+                rowData << padTeam(team.name)
+            }
+            else {
+                rowData << pad (team[col], col.length())
+            }
+        }
+        println "${rowData.join(" ")}"
     }
 }
 
-//def json = JsonOutput.toJson(teams)
-//println JsonOutput.prettyPrint(json)
+def addTotals (ArrayList teams) {
+    teams.each { team->
+        team.homeMatches = team.homeGamePoints.size()
+        team.awayMatches = team.awayGamePoints.size()
+        team.homePts = team.homeGamePoints.sum()
+        team.awayPts = team.awayGamePoints.sum()
+        team.avgHomePts = Math.round(team.homePts/team.homeMatches)
+        team.avgAwayPts = Math.round(team.awayPts/team.awayMatches)
+        team.totalPts = team.homePts + team.awayPts
+        team.avgPts = Math.round(team.totalPts / (team.homeMatches + team.awayMatches))
+    }
+}
 
 def padTeam (String team) {
     while (team.length() < 17) {
@@ -136,12 +152,12 @@ def addLeaguePositions() {
 
 def addHomeTeamScore (teamName, score) {
     def team = teams.find { it.name == teamName}
-    team.homePoints << score
+    team.homeGamePoints << score
 }
 
 def addAwayTeamScore (teamName, score) {
     def team = teams.find { it.name == teamName}
-    team.awayPoints << score
+    team.awayGamePoints << score
 }
 
 def updateGameweek() {
