@@ -1,0 +1,2268 @@
+
+
+
+    
+    
+    <h2 id="ismFixtureDetailTitle">
+        Sunderland
+            
+                0 - 1
+            
+        Spurs:
+        13 Sep 13:30
+    </h2>
+
+    
+        
+        <table class="ismJsStatsGrouped ismTable ismDataView ismFixtureDetailTable">
+            <caption>Sunderland</caption>
+            <thead>
+                <tr>
+                    
+                        <th>
+                            <abbr title="Player">
+                                
+                                    
+                                        P
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Minutes played">
+                                
+                                    
+                                        MP
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Goals scored">
+                                
+                                    
+                                        GS
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Assists">
+                                
+                                    
+                                        A
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Clean sheets">
+                                
+                                    
+                                        CS
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Goals conceded">
+                                
+                                    
+                                        GC
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Own goals">
+                                
+                                    
+                                        OG
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Penalties saved">
+                                
+                                    
+                                        PS
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Penalties missed">
+                                
+                                    
+                                        PM
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Yellow cards">
+                                
+                                    
+                                        YC
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Red cards">
+                                
+                                    
+                                        RC
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Saves">
+                                
+                                    
+                                        S
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Bonus">
+                                
+                                    
+                                        B
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="EA SPORTS PPI">
+                                
+                                    
+                                        ESP
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Bonus Points System">
+                                
+                                    
+                                        BPS
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Total points">
+                                
+                                    
+                                        TP
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        
+                            <td>
+                                Pantilimon
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                6
+                            </td>
+                        
+                            <td>
+                                18
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Kaboul
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                14
+                            </td>
+                        
+                            <td>
+                                17
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                O&#39;Shea
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                6
+                            </td>
+                        
+                            <td>
+                                17
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Jones
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                            <td>
+                                5
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                van Aanholt
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                8
+                            </td>
+                        
+                            <td>
+                                14
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Cattermole
+                            </td>
+                        
+                            <td>
+                                17
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Rodwell
+                            </td>
+                        
+                            <td>
+                                10
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                -4
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Gómez
+                            </td>
+                        
+                            <td>
+                                73
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                4
+                            </td>
+                        
+                            <td>
+                                12
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Lens
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                -1
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                M&#39;Vila
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                5
+                            </td>
+                        
+                            <td>
+                                27
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Toivonen
+                            </td>
+                        
+                            <td>
+                                80
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                -1
+                            </td>
+                        
+                            <td>
+                                7
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Borini
+                            </td>
+                        
+                            <td>
+                                73
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Defoe
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                13
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Watmore
+                            </td>
+                        
+                            <td>
+                                17
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                    </tr>
+                
+            </tbody>
+        </table>
+    
+
+    
+        
+        <table class="ismJsStatsGrouped ismTable ismDataView ismFixtureDetailTable">
+            <caption>Spurs</caption>
+            <thead>
+                <tr>
+                    
+                        <th>
+                            <abbr title="Player">
+                                
+                                    
+                                        P
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Minutes played">
+                                
+                                    
+                                        MP
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Goals scored">
+                                
+                                    
+                                        GS
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Assists">
+                                
+                                    
+                                        A
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Clean sheets">
+                                
+                                    
+                                        CS
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Goals conceded">
+                                
+                                    
+                                        GC
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Own goals">
+                                
+                                    
+                                        OG
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Penalties saved">
+                                
+                                    
+                                        PS
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Penalties missed">
+                                
+                                    
+                                        PM
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Yellow cards">
+                                
+                                    
+                                        YC
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Red cards">
+                                
+                                    
+                                        RC
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Saves">
+                                
+                                    
+                                        S
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Bonus">
+                                
+                                    
+                                        B
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="EA SPORTS PPI">
+                                
+                                    
+                                        ESP
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Bonus Points System">
+                                
+                                    
+                                        BPS
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                        <th>
+                            <abbr title="Total points">
+                                
+                                    
+                                        TP
+                                    
+                                
+                            </abbr>
+                        </th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        
+                            <td>
+                                Lloris
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                15
+                            </td>
+                        
+                            <td>
+                                25
+                            </td>
+                        
+                            <td>
+                                6
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Alderweireld
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                14
+                            </td>
+                        
+                            <td>
+                                30
+                            </td>
+                        
+                            <td>
+                                7
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Walker
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                14
+                            </td>
+                        
+                            <td>
+                                24
+                            </td>
+                        
+                            <td>
+                                6
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Vertonghen
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                13
+                            </td>
+                        
+                            <td>
+                                24
+                            </td>
+                        
+                            <td>
+                                5
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Davies
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                16
+                            </td>
+                        
+                            <td>
+                                29
+                            </td>
+                        
+                            <td>
+                                6
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Dier
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                            <td>
+                                37
+                            </td>
+                        
+                            <td>
+                                39
+                            </td>
+                        
+                            <td>
+                                9
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Townsend
+                            </td>
+                        
+                            <td>
+                                29
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                6
+                            </td>
+                        
+                            <td>
+                                14
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Chadli
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                8
+                            </td>
+                        
+                            <td>
+                                8
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Lamela
+                            </td>
+                        
+                            <td>
+                                24
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                9
+                            </td>
+                        
+                            <td>
+                                15
+                            </td>
+                        
+                            <td>
+                                4
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Mason
+                            </td>
+                        
+                            <td>
+                                84
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                            <td>
+                                43
+                            </td>
+                        
+                            <td>
+                                37
+                            </td>
+                        
+                            <td>
+                                10
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Carroll
+                            </td>
+                        
+                            <td>
+                                6
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Alli
+                            </td>
+                        
+                            <td>
+                                66
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                12
+                            </td>
+                        
+                            <td>
+                                6
+                            </td>
+                        
+                            <td>
+                                3
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Kane
+                            </td>
+                        
+                            <td>
+                                90
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                18
+                            </td>
+                        
+                            <td>
+                                -4
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>
+                                Son
+                            </td>
+                        
+                            <td>
+                                61
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                0
+                            </td>
+                        
+                            <td>
+                                5
+                            </td>
+                        
+                            <td>
+                                1
+                            </td>
+                        
+                            <td>
+                                2
+                            </td>
+                        
+                    </tr>
+                
+            </tbody>
+        </table>
+    
+
