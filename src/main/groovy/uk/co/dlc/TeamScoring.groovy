@@ -1,10 +1,4 @@
-package fpl
-
-import groovy.json.JsonOutput
-
-/**
- * Created by dlewis-crosby on 11/12/2015.
- */
+package uk.co.dlc
 
 leagueUrl = "http://fantasy.premierleague.com/entry/1234966/event-history/16/"
 fplBaseUrl = "http://fantasy.premierleague.com/fixture"

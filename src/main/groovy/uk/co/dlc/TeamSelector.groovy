@@ -1,7 +1,7 @@
 /**
  * Created by Dave on 06/08/2015.
  */
-package fpl
+package uk.co.dlc
 
 
 budget = 100
@@ -21,10 +21,10 @@ create()
 def create() {
     buildOptions()
     def team = [
-            keepers: createPlayerList(['Panti'], keeperOptions) as HashSet,
-            defenders: createPlayerList(['Azpi'], defenderOptions),
-            mids: createPlayerList(['Hazard', 'Chadli'], midOptions),
-            forwards: createPlayerList(['Roo','Sakho'], forwardOptions)
+            keepers: createPlayerList([], keeperOptions) as HashSet,
+            defenders: createPlayerList([], defenderOptions),
+            mids: createPlayerList([], midOptions),
+            forwards: createPlayerList([], forwardOptions)
     ]
     createTeams(30, team)
 }
@@ -50,9 +50,9 @@ def createTeams (int n) {
     createTeams(n, team)
 }
 
-def createTeams (int n, Map originalSeed) {
+def createTeams (int numberOfTeams, Map originalSeed) {
     def teams = []
-    while (teams.size() < n) {
+    while (teams.size() < numberOfTeams) {
         def team = deepcopy (originalSeed)
         populateTeam(team)
         if (teamIsValid(team)) {
