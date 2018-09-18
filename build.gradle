@@ -14,3 +14,34 @@ dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.3.11'
     testCompile group: 'junit', name: 'junit', version: '4.11'
 }
+
+task ranks(type: RunGroovyTask) {
+    description "Find numbered rank points in fpl"
+    taskClass = "Ranks"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+task players(type: RunGroovyTask) {
+    description "Find teams with certain players"
+    taskClass = "PlayerAnalysis"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+task teamPoints(type: RunGroovyTask) {
+    description "Calculate team fpl points"
+    taskClass = "TeamFplPoints"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+class RunGroovyTask extends JavaExec {
+
+    String taskClass
+
+    @TaskAction
+    public void exec() {
+        main = 'uk.co.dlc.'+ taskClass
+        println "running $main"
+
+        super.exec()
+    }
+}

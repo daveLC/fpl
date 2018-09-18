@@ -3,7 +3,7 @@
  */
 package uk.co.dlc
 
-
+playerFileBase = new File("C:/Users/dlc/dev/fpl/src/main/resources")
 budget = 100
 
 keeperOptions = []
@@ -21,10 +21,10 @@ create()
 def create() {
     buildOptions()
     def team = [
-            keepers: createPlayerList([], keeperOptions) as HashSet,
-            defenders: createPlayerList([], defenderOptions),
-            mids: createPlayerList([], midOptions),
-            forwards: createPlayerList([], forwardOptions)
+            keepers: createPlayerList([], keeperOptions),
+            defenders: createPlayerList(['trippier'], defenderOptions),
+            mids: createPlayerList(['willian'], midOptions),
+            forwards: createPlayerList(['lukaku', 'kane'], forwardOptions)
     ]
     createTeams(30, team)
 }
@@ -61,6 +61,7 @@ def createTeams (int numberOfTeams, Map originalSeed) {
         else {
             //outputTeam(team)
         }
+        println "teams so far: ${teams.size()}"
     }
     println "\n============================== FINAL TEAMS =================================="
     teams.each {
@@ -138,10 +139,18 @@ def chooseRandomPlayer(ArrayList array) {
 
 def buildOptions() {
 
-    buildKeeperOptions()
-    buildDefenderOptions()
-    buildMidOptions()
-    buildForwardOptions()
+    importFromCsv(new File(playerFileBase, "gks.csv"), keeperOptions)
+    importFromCsv(new File(playerFileBase, "def.csv"), defenderOptions)
+    importFromCsv(new File(playerFileBase, "mid.csv"), midOptions)
+    importFromCsv(new File(playerFileBase, "for.csv"), forwardOptions)
+}
+
+def importFromCsv(File csvFile, optionList) {
+
+    csvFile.eachLine { line ->
+        def values = line.split(",")
+        optionList << [name:values[0], team: values[1], value:values[2] as float]
+    }
 }
 
 def buildKeeperOptions() {
